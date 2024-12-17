@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SyncDevFoodDownload/static/css/main.dfdc0873.css",
-    "main.js": "/SyncDevFoodDownload/static/js/main.4ff02cc4.js",
+    "main.js": "/SyncDevFoodDownload/static/js/main.cec06853.js",
     "static/js/488.5401af0a.chunk.js": "/SyncDevFoodDownload/static/js/488.5401af0a.chunk.js",
     "index.html": "/SyncDevFoodDownload/index.html",
     "main.dfdc0873.css.map": "/SyncDevFoodDownload/static/css/main.dfdc0873.css.map",
-    "main.4ff02cc4.js.map": "/SyncDevFoodDownload/static/js/main.4ff02cc4.js.map",
+    "main.cec06853.js.map": "/SyncDevFoodDownload/static/js/main.cec06853.js.map",
     "488.5401af0a.chunk.js.map": "/SyncDevFoodDownload/static/js/488.5401af0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdc0873.css",
-    "static/js/main.4ff02cc4.js"
+    "static/js/main.cec06853.js"
   ]
 }
